@@ -1,0 +1,6 @@
+pydantic-ai
+httpx
+logfire
+devtools
+gradio
+python-dotenv 
